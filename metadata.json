@@ -1,0 +1,7 @@
+{
+  "name": "AI Study Buddy",
+  "description": "An AI-powered learning assistant that helps students master academic topics through contextual chat, image analysis of notes, and interactive quizzes. It integrates language, vision, and speech technologies for a comprehensive study experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
